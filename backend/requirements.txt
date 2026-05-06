@@ -24,3 +24,5 @@ soundfile==0.12.1
 httpx==0.26.0
 aiofiles==23.2.1
 numpy==1.26.4
+
+setuptools
