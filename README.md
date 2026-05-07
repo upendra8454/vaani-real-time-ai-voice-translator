@@ -32,6 +32,11 @@ A full-stack, production-ready real-time translation platform supporting **15+ I
 | **Deployment** | Docker + Docker Compose |
 
 ---
+## Live Demo
+
+https://vaani-real-time-ai-voice-translator.onrender.com/
+
+---
 
 ## 🚀 Quick Start
 
