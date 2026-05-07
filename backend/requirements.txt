@@ -6,10 +6,9 @@ websockets==12.0
 
 # Translation
 deep-translator==1.11.4
-googletrans==4.0.0-rc1
 
 # Speech to Text
-openai-whisper==20231117
+faster-whisper
 SpeechRecognition==3.10.1
 
 # Text to Speech
@@ -26,3 +25,4 @@ aiofiles==23.2.1
 numpy==1.26.4
 
 setuptools
+wheel
